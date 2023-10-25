@@ -1,2 +1,1 @@
-# bookbot
-PythonLearningProject
+This is a Python learning project used to setup a basic workflow and coding environment utilizing VSCode, Git, Github.
